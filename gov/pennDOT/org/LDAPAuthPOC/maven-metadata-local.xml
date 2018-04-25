@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gov.pennDOT.org</groupId>
+  <artifactId>LDAPAuthPOC</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180425101050</lastUpdated>
+  </versioning>
+</metadata>
